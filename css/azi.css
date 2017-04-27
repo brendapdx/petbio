@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #990000;
+  font-family: sans-serif;
+}
+
+p {
+  color: blue;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+ol {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 40px;
+}
+
+img {
+  border-radius: 50px;
+}
