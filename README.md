@@ -1,6 +1,6 @@
 # _Short Pet Bios_
 
-#### By _** Nicholas and Brenda (Monday's Pair)**_
+#### By _Nicholas and Brenda (Monday's Pair)_
 
 ## Description
 
@@ -27,6 +27,6 @@ _No known bugs_
 _Spambox@cheerful.com_
 
 
-####_Copyright (c) 2017 Brenda Farrier  All Rights Reserved._
+#### _Copyright (c) 2017 Brenda Farrier  All Rights Reserved._
 
-####_This software is licensed under the MIT license._
+#### _This software is licensed under the MIT license._
