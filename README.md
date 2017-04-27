@@ -14,7 +14,7 @@ _This is a short list of pets with a brief detail about each pet._
 
 * _Navigate to file whether online or local_
 
-* _Technologies Used_
+##  _Technologies Used_
 
 * _Simple HTML_
 
